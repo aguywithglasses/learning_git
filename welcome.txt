@@ -7,4 +7,9 @@ edit #2
 Can you see this?
 
 
+<<<<<<< HEAD
 yes i can!!
+=======
+
+We are going to figure it out.
+>>>>>>> development
